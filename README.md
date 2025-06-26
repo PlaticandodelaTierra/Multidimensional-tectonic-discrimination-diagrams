@@ -6,4 +6,4 @@ References:
 2.- Agrawal, S., Guevara, M., Verma, S.P. (2008): Tectonic discrimination of basic and ultrabasic rocks through log-transformed ratios of immobile trace elements. International Geology Review 50, 1
 3.-Verma, S.P., Guevara, M., Agrawal, S. (2006): Discriminating four tectonic settings: five new geochemical diagrams for basic and ultrabasic volcanic rocks based on log-ratio transformation of major-element data. Journal of Earth System Science 115, 485-528
 4.-Verma, S.P., Agrawal, S. (2011): New tectonic discrimination diagrams for basic and ultrabasic volcanic rocks through log-transformed ratios of high field strength elements and implications for petrogenetic processes. Revista Mexicana de Ciencias Geológicas 28, 24-44.
-5.-
+5.-Verma S.P., VermA S.K. (2013): First 15 probability-based multi-dimensional discrimination diagrams for intermediate magmas and their robustness against postemplacement compositional changes and petrogenetic processes. Turkish J Earth Sci 22: 931–995
